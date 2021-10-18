@@ -1,12 +1,14 @@
-<h1 align="center">Hi 👋, I'm Douglas Camargo</h1>
-<h3 align="center">Data Science student</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/douglascdsantos/douglascdsantos/main/banner%20github%20(1).gif" >
+</p>
+
 
 - 🔭 Atualmente estou trabalhando na [Congresse.me](https://congresse.me/)
 - 👯 Eu procuro colaborar em **projetos de ciência de dados**
 - 📝 Eu regularmente escrevo em [https://douglascdsantos.medium.com/](https://douglascdsantos.medium.com/)
 - 📫 Fale comigo em **douglas.c.santos@unesp.br**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/douglascdsantos](https://www.linkedin.com/in/douglascdsantos)
-- ⚡ Curiosidade sobre mim **Amo jogar The Witcher 3 e cachorros**
+- ⚡ Curiosidade sobre mim **Amo jogar The Witcher 3 e tenho dois cães, um chamado Django e outra chamada Furiosa** (você pegou a referência?)
 
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
