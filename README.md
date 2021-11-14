@@ -10,6 +10,8 @@
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/douglascdsantos](https://www.linkedin.com/in/douglascdsantos)
 - ⚡ Curiosidade sobre mim **Amo jogar The Witcher 3 e tenho dois cães, um chamado Django e outra chamada Furiosa** (você pegou a referência?)
 
+[Portifolio Ciência de Dados ↣](https://github.com/douglascdsantos/data_science) 
+
 <h3 align="left">Entre em contato comigo:</h3>
 <p align="left">
 <p align="left">
