@@ -10,9 +10,16 @@
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/douglascdsantos](https://www.linkedin.com/in/douglascdsantos)
 - ⚡ Curiosidade sobre mim **Amo jogar The Witcher 3 e tenho dois cães, um chamado Django e outra chamada Furiosa** (você pegou a referência?)
 
-## [Portifolio Ciência de Dados ↣](https://github.com/douglascdsantos/data_science) 
+---
 
-# Linguagens:
+# Portifolio Ciência de Dados ↣
+Conheca meus projetos por meio do [link ↣](https://github.com/douglascdsantos/data_science) 
+
+---
+
+# Skills:
+
+## Linguagens:
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
  
@@ -33,7 +40,7 @@
   
 ## Contatos e redes sociais: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascdsantos/)
-[![](https://img.shields.io/badge/Medium-F9AB00?style=for-the-badge&logo=medium&color=525252)](https://douglascdsantos.medium.com/)
+[![](https://img.shields.io/badge/Medium-F9AB00?style=for-the-badge&logo=medium&color=525252)](mailto:https://douglascdsantos.medium.com/)
 [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/douglascsantos)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.c.santos@unesp.br)
 
