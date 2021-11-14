@@ -12,8 +12,8 @@
 
 ---
 
-# Portifolio Ciência de Dados ↣
-Conheca meus projetos por meio do [link ↣](https://github.com/douglascdsantos/data_science) 
+# Portifolio Ciência de Dados
+Conheca meus projetos por meio do [link (clique aqui) ↣](https://github.com/douglascdsantos/data_science) 
 
 ---
 
