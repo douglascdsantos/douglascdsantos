@@ -10,13 +10,30 @@
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/douglascdsantos](https://www.linkedin.com/in/douglascdsantos)
 - ⚡ Curiosidade sobre mim **Amo jogar The Witcher 3 e tenho dois cães, um chamado Django e outra chamada Furiosa** (você pegou a referência?)
 
-[Portifolio Ciência de Dados ↣](https://github.com/douglascdsantos/data_science) 
+## [Portifolio Ciência de Dados ↣](https://github.com/douglascdsantos/data_science) 
 
-<h3 align="left">Entre em contato comigo:</h3>
-<p align="left">
-<p align="left">
-<a href="https://linkedin.com/in/douglascdsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglascdsantos" height="30" width="40" /></a>
-<a href="https://instagram.com/douglascdsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="douglascdsantos" height="30" width="40" /></a>
-<a href="https://douglascdsantos.medium.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@douglascdsantos" height="30" width="40" /></a>
-<a href="https://kaggle.com/douglascsantos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="douglascsantos" height="30" width="40" /></a>
-</p>
+# Linguagens:
+  ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+
+ 
+## Tecnologias:  
+  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+  ![pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+  ![latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
+
+## IDE:
+  ![Pycharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![gcollab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
+  ![visual studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+  ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
+
+--- 
+
+  
+## Contatos e redes sociais: 
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascdsantos/)
+[![](https://img.shields.io/badge/Medium-F9AB00?style=for-the-badge&logo=medium&color=525252)](https://douglascdsantos.medium.com/)
+[![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/douglascsantos)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](douglas.c.santos@unesp.br)
+
