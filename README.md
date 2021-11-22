@@ -4,7 +4,7 @@
 
 
 - 🔭 Atualmente estou trabalhando na [Congresse.me](https://congresse.me/)
-- 👯 Eu procuro colaborar em **projetos de ciência de dados**
+- 😃 Eu procuro colaborar em **projetos de ciência de dados**
 - 📝 Eu regularmente escrevo em [https://douglascdsantos.medium.com/](https://douglascdsantos.medium.com/)
 - 📫 Fale comigo em **douglas.c.santos@unesp.br**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/douglascdsantos](https://www.linkedin.com/in/douglascdsantos)
@@ -12,12 +12,23 @@
 
 ---
 
-# Portifolio Ciência de Dados
-Conheca meus projetos por meio do [link (clique aqui) ↣](https://github.com/douglascdsantos/data_science) 
+# O que estou estudando atualmente?
+
+## 🎯 Ciência de dados
+Conheca meus projetos por meio do [portfólio (clique aqui) ↣](https://github.com/douglascdsantos/data_science)
+
+## 🎯 Analise de dados com Python
+[confira no link ↣](https://github.com/douglascdsantos/unesp_analise_de_dados_com_python)
+
+## 🎯 Estatística e Probabilidade
+[confira no link ↣](https://github.com/douglascdsantos/unesp_estatistica_e_probabilidade)
+
+## 🎯 Introdução à Ciência da Computação II
+[confira no link ↣](https://github.com/douglascdsantos/unesp_icc_ii)
 
 ---
 
-# Skills:
+# Habilidades:
 
 ## Linguagens:
   ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
