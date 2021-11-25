@@ -18,13 +18,13 @@
 Conheca meus projetos por meio do [portfólio (clique aqui) ↣](https://github.com/douglascdsantos/data_science)
 
 ## 🎯 Analise de dados com Python
-[confira no link ↣](https://github.com/douglascdsantos/unesp_analise_de_dados_com_python)
+Disciplina optativa da grade de Engenharia de Produção [confira no link ↣](https://github.com/douglascdsantos/unesp_analise_de_dados_com_python)
 
 ## 🎯 Estatística e Probabilidade
-[confira no link ↣](https://github.com/douglascdsantos/unesp_estatistica_e_probabilidade)
+Os exercícios da disciplina devem ser entreguem em arquivo de excel, mas estou fazendo também em python [confira no link ↣](https://github.com/douglascdsantos/unesp_estatistica_e_probabilidade)
 
 ## 🎯 Introdução à Ciência da Computação II
-[confira no link ↣](https://github.com/douglascdsantos/unesp_icc_ii)
+Aprendendo sobre lógica de programação [confira no link ↣](https://github.com/douglascdsantos/unesp_icc_ii)
 
 ---
 
@@ -51,7 +51,6 @@ Conheca meus projetos por meio do [portfólio (clique aqui) ↣](https://github.
   
 ## Contatos e redes sociais: 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglascdsantos/)
-[![](https://img.shields.io/badge/Medium-F9AB00?style=for-the-badge&logo=medium&color=525252)](mailto:https://douglascdsantos.medium.com/)
+[![](https://img.shields.io/badge/Medium-F9AB00?style=for-the-badge&logo=medium&color=525252)](https://douglascdsantos.medium.com/)
 [![](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/douglascsantos)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:douglas.c.santos@unesp.br)
-
