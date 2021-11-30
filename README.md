@@ -15,7 +15,7 @@
 # O que estou estudando atualmente?
 
 ## 🎯 Ciência de dados
-Conheca meus projetos por meio do [portfólio (clique aqui) ↣](https://github.com/douglascdsantos/data_science)
+Conheça meus projetos por meio do [portfólio (clique aqui) ↣](https://github.com/douglascdsantos/data_science)
 
 ## 🎯 Analise de dados com Python
 Disciplina optativa da grade de Engenharia de Produção [confira no link ↣](https://github.com/douglascdsantos/unesp_analise_de_dados_com_python)
