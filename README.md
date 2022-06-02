@@ -3,7 +3,7 @@
 </p>
 
 
-- 🔭 Atualmente estou trabalhando na [Congresse.me](https://congresse.me/)
+- 🔭 Atualmente estou trabalhando como Analista de BI no [Grupo Maringá](https://www.grupomaringa.com.br/)
 - 😃 Eu procuro colaborar em **projetos de ciência de dados**
 - 📝 Eu regularmente escrevo em [https://douglascdsantos.medium.com/](https://douglascdsantos.medium.com/)
 - 📫 Fale comigo em **douglas.c.santos@unesp.br**
