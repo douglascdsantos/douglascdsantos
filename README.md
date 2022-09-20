@@ -4,9 +4,8 @@
 
 
 - 🔭 Atualmente estou trabalhando como Analista de BI no [Grupo Maringá](https://www.grupomaringa.com.br/)
-- 😃 Eu procuro colaborar em **projetos de ciência de dados**
-- 📝 Eu regularmente escrevo em [https://douglascdsantos.medium.com/](https://douglascdsantos.medium.com/)
-- 📫 Fale comigo em **douglas.c.santos@unesp.br**
+- 😃 Eu procuro colaborar em **projetos de Análise de Dados e Ciência de Dados**
+- 📫 Fale comigo em **douglas.camargo.santos@gmail.com.br**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/douglascdsantos](https://www.linkedin.com/in/douglascdsantos)
 - ⚡ Curiosidade sobre mim **Amo jogar The Witcher 3 e tenho dois cães, um chamado Django e outra chamada Furiosa** (você pegou a referência?)
 
