@@ -7,7 +7,7 @@ Sou Douglas Camargo, engenheiro , apaixonado por aprender e conhecer novas persp
 
 - 🔭 Atualmente estou trabalhando como Analista de BI no [Grupo Maringá](https://www.grupomaringa.com.br/)
 - 😃 Eu procuro colaborar em **projetos de Análise de Dados e Ciência de Dados**
-- 📫 Fale comigo em **douglas.camargo.santos@gmail.com.br**
+- 📫 Fale comigo em **douglas.camargo.santos@gmail.com**
 - 📄 Saiba mais sobre mim em [https://www.linkedin.com/in/douglascdsantos](https://www.linkedin.com/in/douglascdsantos)
 - ⚡ Curiosidade sobre mim **Amo jogar The Witcher 3 e tenho dois cães, um chamado Django e outra chamada Furiosa** (você pegou a referência?)
 
